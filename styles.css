@@ -670,7 +670,7 @@ ABOUT
     display: none;
   }
   .title-big {
-    display: block;
+    display: block;.
     text-align: left;
     margin-bottom: 2rem;
   }
@@ -959,6 +959,7 @@ CONTACT
   font-size: 2rem;
   transition: var(--transition);
   line-height: 1;
+  margin: auto;
 }
 .social-icon i {
   transition: var(--transition);
